@@ -9,4 +9,4 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[A Guidebook into Starting a Match on Tarkov](j01/)
