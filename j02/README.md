@@ -3,7 +3,7 @@
 
 ![Escape_from_Tarkov](https://github.com/ChicoState/ux-personal-portfolio-Hayat-White/assets/33682739/15201a97-2301-45ee-ad6c-ffb492c62a6d)
 
-I am someone who likes to explore and try new games. There has been so much talk for a game called **Escape From Tarkov** so I wanted to check it out. Just like any other game there is some learning but because the game is marketed as a first person shooter that has looting gameplay, I was in. Upon starting and playing the game, I found out how hyper realistic the environment and gameplay wanted to be.
+I am someone who likes to explore and try new games. There has been so much talk for a game called **Escape From Tarkov** so I wanted to check it out. Just like any other game there is some learning but because the game is marketed as a first person shooter that has looting gameplay I was interested. Upon starting and playing the game, I found out how hyper realistic the environment and gameplay wanted to be.
 Upon start up, **Escape From Tarkov** gives the player very clear actions, pick a face and a voice then it does something that is somewhat important to the overall gameplay, the game has you select to be a BEAR or a USEC. These are the two factions in the game. This is something that is not really explained beyond the start up gear is different. And then there you are on the main menu. 
 ![guy1](https://github.com/ChicoState/ux-personal-portfolio-Hayat-White/assets/33682739/0c8d28fa-3283-40a9-bca0-b18cc4ecf192)
 
