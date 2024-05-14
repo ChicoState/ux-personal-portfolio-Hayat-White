@@ -5,7 +5,7 @@ I have been working as a bartender in Chico so that I can pay for my student loa
 
 ## UX Team Project
 
-Coming soon.
+[UX TEAM Project](https://github.com/ChicoState/ux-rosetta-song)
 
 ## UX Journal
 
